@@ -1,0 +1,6 @@
+{
+  "name": "THE BIRTHDAY EXPERIENCE",
+  "description": "An interactive, personalized digital birthday surprise featuring animated gift reveals, four playable mini-games, a digital letter, mystery cards, and a grand fireworks finale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
